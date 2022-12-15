@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br> 
     <h3 align="center"> GitHub Stats </h3> 
     <div align="center">
-      <a href='https://github.com/leetaehyeon123%27%3E
+      <a href='https://github.com/eak00700'>
         <img src="https://github-readme-stats.vercel.app/api?username=eak00700&show_icons=true&theme=gruvbox_light" height="150"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eak00700&layout=compact&theme=gruvbox_light&langs_count=6" height="150"/>
        </a>
