@@ -1,4 +1,4 @@
-### Hello Wordl! 👋
+### Hello World ⚡
 
 <!--
 **eak00700/eak00700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
